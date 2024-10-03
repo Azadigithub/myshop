@@ -17,6 +17,7 @@
     height: 200px;
   }
 }
+/* ___ */
 @media (min-width: 800px) {
   .image-slider {
     height: 250px;
